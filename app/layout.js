@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 const inter=Inter({subsets:["latin"]})
 
 export const metadata = {
-  title: "Splitr",
+  title: "CashMate",
   description: "Split expense with friends",
 };
 

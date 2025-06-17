@@ -170,7 +170,7 @@ export default function Home() {
       </section>
 
       <footer className="border-t bg-gray-50 py-12 text-center text-sm text-muted-foreground">
-        © {new Date().getFullYear()} Splitr. All rights reserved.
+        © {new Date().getFullYear()} CashMate. All rights reserved.
       </footer>
     </div>
   );
